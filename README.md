@@ -7,7 +7,6 @@ I'am Carlos a FullStack Sofware Engineer based on 🇲🇽 México City.
 - 🌱 I’m currently learning [Clojure](https://clojure.org) and [Datomic](https://www.datomic.com/)	
 ### Languages 📋
 
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=logo&logo=Clojure&logoColor=Clojure)
 ![Python](https://img.shields.io/badge/python-3670A0?style=logo&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=logo&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=logo&logo=typescript&logoColor=white)
