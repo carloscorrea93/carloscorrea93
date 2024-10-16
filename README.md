@@ -3,8 +3,8 @@
 ### About Me 🚀
 
 I'am Carlos a FullStack Sofware Engineer based on 🇲🇽 México City.
-- 🔭 I’m currently working on [Nubank](https://nu.com.mx)
-- 🌱 I’m currently learning [Clojure](https://clojure.org) and [Datomic](https://www.datomic.com/)	
+- 🔭 Currently working on [Nubank](https://nu.com.mx)
+- 🌱 Currently learning [Clojure](https://clojure.org)
 ### Languages 📋
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=logo&logo=python&logoColor=ffdd54)
